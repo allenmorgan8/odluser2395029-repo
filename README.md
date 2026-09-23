@@ -15,8 +15,7 @@ node app.js
 
 Then open <http://localhost:3000>.
 
-## Build it
-
+## Build it?
 ```bash
 gulp
 node dist/app.js
